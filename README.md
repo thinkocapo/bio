@@ -1,5 +1,5 @@
 ## Data
-Download the csv here and place it in project root  
+Download the csv/JSON here and place it in project root  
 https://datarepository.wolframcloud.com/resources/Genetic-Sequences-for-the-SARS-CoV-2-Coronavirus
 
 The disease COVID-19 versus the virus SARS-COV-2 that causes it  
@@ -36,3 +36,9 @@ TODO Nucleotides
 
 used:
 https://www.geeksforgeeks.org/dna-protein-python-3/
+
+## TODO
+- compare wolfram country samples to other country samples - relatedness
+- compare to samples from ncbi, see if ncbi samples per country appear in wolfram country samples - relatedness
+- Time Parameter - see mutation rate over time
+- Trace nucleotides > amino acids > proteins
