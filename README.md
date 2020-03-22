@@ -41,6 +41,7 @@ https://www.geeksforgeeks.org/dna-protein-python-3/
 - compare wolfram country samples to other country samples - relatedness
 - compare to samples from ncbi, see if ncbi samples per country appear in wolfram country samples - relatedness
 - Time Parameter - see mutation rate over time
+
+- BioPython
 - Trace nucleotides > amino acids > proteins
 - plots
-- BioPython ^
