@@ -7,6 +7,11 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidan
 
 Quick Primer on how DNA Translation: DNA -> Amino Acids -> Proteins works  
 https://towardsdatascience.com/starting-off-in-bioinformatics-turning-dna-sequences-into-protein-sequences-c771dc20b89f
+https://www.nature.com/scitable/definition/transcription-dna-transcription-87/
+
+Viral Genomes
+https://www.sciencedirect.com/topics/neuroscience/virus-genome
+
 
 ![Jupyter Output Example](./jupyter-output-example.png)
 ## Overview
@@ -44,4 +49,13 @@ https://www.geeksforgeeks.org/dna-protein-python-3/
 
 - BioPython
 - Trace nucleotides > amino acids > proteins
-- plots
+1. aminoacids
+2. proteins
+3. relatedness of these in the samples, by country
+
+
+in Biopython and bioinformatics in general, we typically work directly with the coding strand because this means we can get the mRNA sequence just by switching T → U.
+
+
+
+N represents that the nucleotide (A, C, G, T) could not be determined (aka Gaps). It means that it is a nucleotide, but the actual base could not be identified.
