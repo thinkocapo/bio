@@ -8,6 +8,9 @@ https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidan
 Quick Primer on how DNA Translation: DNA -> Amino Acids -> Proteins works  
 https://towardsdatascience.com/starting-off-in-bioinformatics-turning-dna-sequences-into-protein-sequences-c771dc20b89f
 
+Viral Genomes
+https://www.sciencedirect.com/topics/neuroscience/virus-genome
+
 ![Jupyter Output Example](./jupyter-output-example.png)
 ## Overview
 This data set is a table of sars-cov-2 virus samples taken from humans. Swabs samples from the oronasopharynges
@@ -44,4 +47,6 @@ https://www.geeksforgeeks.org/dna-protein-python-3/
 
 - BioPython
 - Trace nucleotides > amino acids > proteins
-- plots
+1. aminoacids
+2. proteins
+3. relatedness of these in the samples, by country
