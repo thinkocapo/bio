@@ -59,3 +59,16 @@ in Biopython and bioinformatics in general, we typically work directly with the 
 
 
 N represents that the nucleotide (A, C, G, T) could not be determined (aka Gaps). It means that it is a nucleotide, but the actual base could not be identified.
+
+Biopython - Identifying Open Reading Frames  
+http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc295
+
+The ORFs of sars-cov-2
+https://jvi.asm.org/content/81/2/548  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1287583/  
+
+Six-frame translation
+https://en.wikipedia.org/wiki/Open_reading_frame
+
+Homology  
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25762
