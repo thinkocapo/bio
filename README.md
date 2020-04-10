@@ -72,3 +72,7 @@ https://en.wikipedia.org/wiki/Open_reading_frame
 
 Homology  
 https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25762
+
+
+Start Codons:  
+Stop Codons:  
