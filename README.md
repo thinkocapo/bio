@@ -74,5 +74,16 @@ Homology
 https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25762
 
 
-Start Codons:  
-Stop Codons:  
+## TODO
+remove sequences with 'N's missing nucleotides. only a handfule
+
+Start Codons:  ?
+Stop Codons:  ?
+
+ORF's find those top 3  (lookup their nucleotides)
+ORF's find using biopython  
+^ compare these two
+
+Assert no stop codons in the ORF
+
+compare the ORFs, prevelance
